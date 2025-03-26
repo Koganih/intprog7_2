@@ -1,7 +1,9 @@
 //calcular sucesor y antecesor
 Algoritmo Calcsucesoryantecesor
+	Definir num Como entero
 	escribir "Ingrese un número:"
-	leer numero
-	escribir "El sucesor de ", numero, " es: ", numero + 1
-	escribir "El antecesor de ", numero, " es: ", numero - 1
+	leer num
+	escribir "El sucesor de ", num, " es: ", num + 1
+	escribir "El antecesor de ", num, " es: ", num - 1
+	Escribir "realizado por Gunther Zamora"
 FinAlgoritmo
