@@ -1,7 +1,7 @@
 Algoritmo CalcArea
-	definir radio, areaCirculo Como Real
-	escribir "Ingrese el radio del círculo:"
-	leer radio
-	areaCirculo = 3.1416 * (radio * radio)
-	escribir "El área del círculo es: ", redon(areaCirculo)
+	Definir radio, areaCirculo Como Real
+	Escribir 'Ingrese el radio del círculo:'
+	Leer radio
+	areaCirculo <- 3.1416*(radio*radio)
+	Escribir 'El área del círculo es: ', redon(areaCirculo)
 FinAlgoritmo
